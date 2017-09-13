@@ -4,8 +4,6 @@
 ##di
 ##wo
 
-
-
 list = ['maandag', 'dinsdag', 'woensdag']
 for x in list:
     print(x[0]+x[1])
