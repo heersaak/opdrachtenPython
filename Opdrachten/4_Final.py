@@ -7,7 +7,8 @@ aantalkm = float(input('Hoeveel kilometer is de rit? '))
 def standaardprijs(afstandKM):
     if afstandKM in range(0,50):
         print(afstandKM*0.80)
-
+    elif:
+        afstandKM
     else:
         print((afstandKM-50)*0.6 + 15)
 
