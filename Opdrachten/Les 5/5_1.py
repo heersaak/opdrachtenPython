@@ -6,6 +6,7 @@
 ##van 10 graden de temperatuur in Fahrenheit print. Zorg middels een geformatteerde output voor
 ##dezelfde precisie en uitlijning als het voorbeeld hieronder:
 
+
 def convert(Celcius):
     fah = Celcius * 1.8 +32
     return fah

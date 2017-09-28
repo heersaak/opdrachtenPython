@@ -12,4 +12,5 @@ def split():
         print(c, 'Heeft kaartnummer:', a)
 
 infile.close()
+
 print(split())
