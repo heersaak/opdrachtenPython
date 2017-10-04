@@ -2,7 +2,7 @@
 ##is het seizoen die bij die maand hoort. Nummers 3 t/m 5 horen bij lente, 9 t/m 11 ‘herfst’ etc.
 
 def seizoen(getal):
-    if getal == :
+    if getal == [12,1,2]:
         return 'winter'
     elif getal == [3,4,5]:
         return 'lente'
